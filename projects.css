@@ -1,0 +1,34 @@
+body{
+    background-color: #05404F;
+
+}
+
+p{
+    text-align: center;
+    
+    
+
+}
+p#caption{
+    font-size: 20px;
+    line-height: 30px;
+    color: #00f6ff;
+    font-weight: 200;
+/*    -webkit-text-stroke: px white;*/
+}
+
+h4#caption-title{
+    color: #2755FC;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
+/*height: 345px;*/
+}
+.carousel-inner > .item > a > video {
+  width: 70%;
+  margin: auto;
+ align-content: center;
+}
